@@ -1,1 +1,4 @@
-this all good
+---
+-name:portal package installation
+shell:#bin.shell!
+chdir:/home/sharath
